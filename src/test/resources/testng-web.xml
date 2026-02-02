@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Web UI Tests">
+    <test name="Wikipedia Web">
+        <packages>
+            <package name="com.student.uiauto.tests.web"/>
+        </packages>
+    </test>
+</suite>
